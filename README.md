@@ -10,6 +10,8 @@ I build end-to-end, not just models. That means designing the data pipeline, sta
 - **Cloud & data engineering**: Azure Data Lake Gen2, Databricks, PySpark, Delta Lake, Unity Catalog
 - **Software engineering**: Node.js, Express, FastAPI, MongoDB, full-stack builds
 - **Applied AI**: NLP, embeddings, LLM integration (local + cloud backend switching)
+  
+I worked as an AI & Data Science Intern at Turismo Technologies, where I integrated AI-powered suggestions into a live product and contributed to their Visitor Intelligence Platform.
 
 Currently building **Gradify**, an AI-powered CV optimization and job-matching platform which was also selected for Web Summit Qatar 2026.
 
