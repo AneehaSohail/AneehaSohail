@@ -25,8 +25,7 @@ End-to-end Azure pipeline (Data Lake Gen2, PySpark ETL, Databricks, Unity Catalo
 **[Medicare Hospital Spending Prediction](https://github.com/AneehaSohail/DSA14102_Healthcare_Cost_Efficiency)**
 Random Forest / Gradient Boosting ensemble with SHAP explainability, segmenting hospitals into spending-risk categories.
 
-**[Gradify](https://github.com/AneehaSohail/gradify)**
-AI-powered CV optimization platform using NLP and embeddings to detect skill gaps and guide interview prep.
+**[Bob Guardian](https://github.com/AneehaSohail/bob_guardian)**
 
 ## Contact
 
